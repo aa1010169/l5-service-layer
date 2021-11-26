@@ -6,8 +6,8 @@ use App\Services\Contracts\{{interface}};
 class {{class}} implements {{interface}}
 {
     public function make(array $request)
-        {
-            // TODO: Implement make() method.
-            // put all the logic in this class
-        }
+    {
+        // TODO: Implement make() method.
+        // put all the logic in this class
+    }
 }
